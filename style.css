@@ -1,0 +1,36 @@
+main {
+    width: 500px;
+    /* height: 50vh; */
+    border: 2px solid rgb(114, 22, 22);
+    background: yellow;
+    padding: 1em;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+div {
+    box-sizing: border-box;
+    background: green;
+    /* height: 50px; */
+    /* width: %; */
+    display: inline-block;
+
+    padding: 1em;
+    border: 3px solid red;
+    border-radius: 10px 50px;
+    text-align: right;
+    color: aliceblue;
+    font-size: 1.5em;
+    font-family: cursive;
+    box-shadow: 5px 5px 10px black;
+    margin-top: 5em;
+}
+
+.bold-txt {
+    display: inline;
+    font-weight: 900;
+    color: red;
+    background: white;
+    height: 280px;
+    width: 1000px;
+}
